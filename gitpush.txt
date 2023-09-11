@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/55230594/terraform-plugins-causing-push-issues-with-git
